@@ -1,17 +1,13 @@
-# l2_custom_widgets
+# Lab 2: Custom Widgets
 
-A new Flutter project.
+In this lab, we created custom widgets such as buttons and texts.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To clone this project, run:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/xiaotiangou3/SSW3401-Lab2.git
+cd SSW3401-Lab2
+flutter run
+```
